@@ -1,0 +1,13 @@
+BoldAsFont=no
+Locale=ja_JP
+Charset=UTF-8
+FontHeight=10
+Columns=220
+Rows=60
+Term=xterm
+
+Blue=0,102,255
+BoldBlue=0,66,255
+Font=Consolas
+AllowBlinking=no
+FontSmoothing=default

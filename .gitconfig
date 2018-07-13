@@ -1,0 +1,6 @@
+[alias]
+	today = log --oneline --since='12 hour ago'
+	sbranch = "!f () { git fetch origin; git show-branch -a --color | head -n $1; };f"
+	reset-soft = reset --soft HEAD^
+[push]
+	default = simple
