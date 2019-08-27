@@ -9,3 +9,8 @@ shelltitle "$ |bash"
 hardstatus alwayslastline "%{.bW}%-w%{.rW}%n %t%{-}%+w %=%{..G} %H %{..Y} %Y %m/%d %C%a "
 
 defscrollback 10000
+
+# open windows(tabs)
+screen -t ws 0
+select 0
+stuff "cd ~/cygdrive/c/ws/\015"
