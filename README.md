@@ -1,3 +1,5 @@
 # Terminal Settings
 
-terminal settings for cygwin
+cygwin settings
+
+put files in cygwin home
