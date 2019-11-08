@@ -11,6 +11,6 @@ hardstatus alwayslastline "%{.bW}%-w%{.rW}%n %t%{-}%+w %=%{..G} %H %{..Y} %Y %m/
 defscrollback 10000
 
 # open windows(tabs)
-screen -t ws 0
+screen -t workspace 0
 select 0
 stuff "cd ~/cygdrive/c/ws/\015"
