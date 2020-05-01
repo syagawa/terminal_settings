@@ -152,12 +152,12 @@ module.exports = {
   //   `@company/project`
   //   `project#1.0.1`
   plugins: [
-    'hyper-statusline',
+    // 'hyper-statusline',
     'hyper-search',
     // 'verminal'
     // 'hyper-material-theme'
     // 'hyper-afterglow',
-    'hyper-night-owl'
+    // 'hyper-night-owl'
     // 'hyper-flat'
     // 'hyper-one-light'
     // 'hyper-solarized-light'
